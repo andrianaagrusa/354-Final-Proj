@@ -19,6 +19,7 @@ void Game::play() {
             cout << "That's correct!" << endl;
         }
         else {
+            cout << "Try again." << endl;
             isCorrectNum = false;
         }
     }
@@ -32,9 +33,12 @@ void Game::play() {
 // part 3: the while loop
 // part 4: putting this in a function
 // part 5: defining this function in a header file and fixing format
-// part 6: 
+// part 6: calling in main
+// part 7: final steps - #include stuff
+// part 8: final code
+// part 9: running the game
 
-// need to mention derived (function) and abstract (Game) variable types
+
 
 
 

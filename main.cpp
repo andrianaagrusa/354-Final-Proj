@@ -8,12 +8,12 @@ using namespace std;
 int main()
 {
 
-Tutorial t;
-Game g;
+    Tutorial t;
+    Game g;
 
-t.runTutorial();
+    t.runTutorial();
 
 
-// g.play();
+    g.play();
 
 }
