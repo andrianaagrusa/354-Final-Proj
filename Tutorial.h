@@ -7,15 +7,11 @@ class Tutorial {
     
 public:
     Tutorial(){}
-    ~Tutorial(){}
 
     string userChoice;
     bool keepGoing;
 
-    void partOne();
-    void partTwo();
-
+    void instructions();
     void runTutorial();
-    
     void getUserChoice();
 };
