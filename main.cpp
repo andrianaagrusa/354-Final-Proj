@@ -13,7 +13,8 @@ int main()
 
     t.runTutorial();
 
-
     g.play();
+    
+    t.endingStatement();
 
 }

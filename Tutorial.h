@@ -14,4 +14,5 @@ public:
     void instructions();
     void runTutorial();
     void getUserChoice();
+    void endingStatement();
 };

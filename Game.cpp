@@ -6,12 +6,12 @@ using namespace std;
 
 void Game::play() {
 
-    randomNum = rand() % 11;
+    randomNum = rand() % 10 + 1;
 
     bool isCorrectNum = false;
 
     while (isCorrectNum == false) {
-        cout << "Guess a number" << endl;
+        cout << "Guess a number between 1 and 10" << endl;
         cin >> usrInput;
 
         if (usrInput == randomNum) {
