@@ -70,7 +70,7 @@ Object-oriented programming is ideal for game development for three main reasons
 	+ Abstraction - Provides only the necessary information about data and hides background details. It helps make your code clean and concise. 
 	+ Inheritance - Extending existing classes and producing hierarchical relationships between Parent and Child classes.
 		
-		For example, if we want to make multiple games, but 		have them all have properties of the `Game` object. We 		can make our game into its own class called 			`GuessNumber` which would be a child of `Game`. Here is 		what that would look like:
+		For example, if we want to make multiple games, where 		they all have properties of the `Game` object. We can 		make our game into its own class called `GuessNumber` 		which would be a child of `Game`. Here is what that 		would look like:
 		
 		```cpp
 		// Parent class
