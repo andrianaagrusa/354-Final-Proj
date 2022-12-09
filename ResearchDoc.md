@@ -99,7 +99,7 @@ Object-oriented programming is ideal for game development for three main reasons
 ### Speed and Performance
 C++ has exceptional runtime and performance rates compared to other popular game programming languages like Java, Python, and C#. 
 
-C++ maintains high performance because it compiles down to machine code, so it does not require translation like other languages.
+C++ maintains high performance because it compiles down to machine code, so it does not require translation like other languages do.
 
 On a generic Binary-Trees program, the runtime for these gaming languages are as follows:
 + C++ : 1,129 ms
@@ -107,10 +107,13 @@ On a generic Binary-Trees program, the runtime for these gaming languages are as
 + C# : 10,797 ms
 + Python : 45,003 ms
 
-C++ also has good memory management, control and flexibility, and handles smooth real-time animation well, which is very desirable when developing games.
+C++ also has good memory management, control and flexibility, and handles smooth real-time animation well, which are all very desirable when developing games.
 
 ### C++ Libraries
 C++ has a wide range of libraries that game developers can use to enhance and strengthen their programs. To explore the many libraries, please click [here](https://github.com/raizam/gamedev_libraries).
+
+## Conclusion
+To conclude, it is evident that C++ gives game developers much potential and room to work creatively because of its functionality and flow. This language is organized and efficient, so writing code is clean, manageable, and structured. I wish to explore this topic further and implement more personal projects using this knowledge in the future.
 
 #### Sources:
 > [Why Was C++ Created?](https://www.geeksforgeeks.org/why-was-c-created/)
