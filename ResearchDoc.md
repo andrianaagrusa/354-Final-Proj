@@ -1,3 +1,5 @@
+# Research Document
+
 This document will outline the history of C++ and why it is valuable in the Game Development industry.
 
 **NOTE:** Please complete the tutorial before reading through this document.
