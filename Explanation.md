@@ -13,8 +13,7 @@ Object-oriented programming is ideal for game development for three main reasons
 	+ Cohesion - Every element, whether it’s a variable, function, or class, should only be responsible for one task.
 		 
 		For example, our main function,
-		```
-
+		```cpp
 		int main() {
 
     	Game g;
@@ -25,3 +24,32 @@ Object-oriented programming is ideal for game development for three main reasons
 		```
 		is only responsible for running the `play()` function. 		This way, we do not clutter up our `main` function with 		definitions, especially if we are calling more than 		one.
 
+	+ Encapsulation - Combining similar data and functions into one class. For example, how we wrote our `play()` function in the `Game` class:
+
+		```cpp
+		class Game {
+
+		public:
+
+    		Game(){}
+
+    		void play();
+
+		};
+		```
+
+		Let’s say we want to add another version of `play()` 		where a 2nd player chooses the number instead of the 		CPU. We would encapsulate this function as part of the 		`Game` class as well. 
+
+		```
+		class Game {
+
+		public:
+
+    		Game(){}
+
+    		void play();
+			
+			void play_version2();
+
+		};
+		```
