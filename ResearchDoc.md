@@ -113,7 +113,7 @@ C++ also has good memory management, control and flexibility, and handles smooth
 C++ has a wide range of libraries that game developers can use to enhance and strengthen their programs. To explore the many libraries, please click [here](https://github.com/raizam/gamedev_libraries).
 
 ## Conclusion
-To conclude, it is evident that C++ gives game developers much potential and room to work creatively because of its functionality and flow. This language is organized and efficient, so writing code is clean, manageable, and structured. I wish to explore this topic further and implement more personal projects using this knowledge in the future.
+To conclude, it is evident that C++ gives game developers much potential and room to work creatively because of its functionality and flow. This language is organized and efficient, so writing code is clean, manageable, and structured. I wish to explore this topic further and to implement personal projects with this knowledge in the future.
 
 #### Sources:
 > [Why Was C++ Created?](https://www.geeksforgeeks.org/why-was-c-created/)
