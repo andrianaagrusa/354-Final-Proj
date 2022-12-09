@@ -12,5 +12,16 @@ Object-oriented programming is ideal for game development for three main reasons
 3. It’s key features, which are:
 	+ Cohesion - Every element, whether it’s a variable, function, or class, should only be responsible for one task.
 		 
-	
+		For example, our main function,
+		```
+
+		int main() {
+
+    	Game g;
+
+    	g.play();
+    
+		}
+		```
+		is only responsible for running the `play()` function. 		This way, we do not clutter up our `main` function with 		definitions, especially if we are calling more than 		one.
 
