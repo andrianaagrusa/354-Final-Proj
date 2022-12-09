@@ -75,7 +75,7 @@ Object-oriented programming is ideal for game development for three main reasons
 		```cpp
 		// Parent class
 
-		Class Game {
+		class Game {
 		
 		public:
 			
@@ -87,7 +87,7 @@ Object-oriented programming is ideal for game development for three main reasons
 		```cpp
 		// Child class
 		
-		Class GuessNumber : public Game {
+		class GuessNumber : public Game {
 		
 		public:
 			
