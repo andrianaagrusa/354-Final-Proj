@@ -1,5 +1,7 @@
 This document will outline the history of C++ and why it is valuable in the Game Development industry.
 
+**NOTE:** Please complete the tutorial before reading through this document.
+
 ## History:
 
 C++ was invented in 1979 as a step up from C. It was developed to support object-oriented programming.
