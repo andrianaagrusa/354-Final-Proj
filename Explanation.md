@@ -1,8 +1,15 @@
-explanation
+This document will outline the history of C++ and why it is valuable in the Game Development industry.
 
 ## History:
 
-C++ was invented in 1979 as a step up from C. It was invented to support object-oriented programming.
+C++ was invented in 1979 as a step up from C. It was developed to support object-oriented programming.
+It is now the most popular language used in the Game Development industry. Some major game engines that utilize C++ scripting are:
++ Unreal Engine
++ Unity
++ Godot
++ 4A Engine
+
+C++ is used to develop games over various platforms such as iOS, Windows, Mac, Linux, and Android.
 
 ## Why is C++ Good For Game Development?
 ### Object-Oriented Programming
@@ -80,8 +87,26 @@ Object-oriented programming is ideal for game development for three main reasons
 		
 		public:
 			
-			GuessNumner(){}
+			GuessNumber(){}
 			
 			...
 		};
 		```
+### Speed and Performance
+C++ has exceptional runtime and performance rates compared to other popular game programming languages like Java, Python, and C#. 
+
+C++ maintains high performance because it compiles down to machine code, so it does not require translation like other languages.
+
+On a generic Binary-Trees program, the runtime for these gaming languages are as follows:
++ C++ : 1,129 ms
++ Java : 3,306 ms
++ C# : 10,797 ms
++ Python : 45,003 ms
+
+C++ also has good memory management, control and flexibility, and handles smooth real-time animation well, which is very desirable when developing games.
+
+### C++ Libraries
+C++ has a wide range of libraries that game developers can use to enhance and strengthen their programs. To explore the many libraries, please click [here](https://github.com/raizam/gamedev_libraries).
+
+> hello there
+> source test
