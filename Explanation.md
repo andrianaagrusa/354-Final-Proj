@@ -109,6 +109,12 @@ C++ also has good memory management, control and flexibility, and handles smooth
 C++ has a wide range of libraries that game developers can use to enhance and strengthen their programs. To explore the many libraries, please click [here](https://github.com/raizam/gamedev_libraries).
 
 #### Sources:
-> hello there
+> [Why Was C++ Created?](https://www.geeksforgeeks.org/why-was-c-created/)
 
-> source test
+> [Difference Between C and C++](https://www.naukri.com/learning/articles/difference-between-c-and-cpp-programming-languages/) 
+
+> [Object Oriented Programming in Game Development](https://varad-kajarekar19.medium.com/object-oriented-programming-in-game-development-1293e6ebed45)
+
+> [Why Are Most Games Coded in C++?](https://www.analyticsinsight.net/why-are-most-games-coded-in-c/#:~:text=C%2B%2B%20is%20a%20compiled%20language,to%20build%20high%2Dperforming%20games)
+
+> [Why You Should Learn C++ For Game Development](https://www.educative.io/blog/cpp-game-development)
