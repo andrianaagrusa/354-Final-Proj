@@ -40,7 +40,7 @@ Object-oriented programming is ideal for game development for three main reasons
 
 		Let’s say we want to add another version of `play()` 		where a 2nd player chooses the number instead of the 		CPU. We would encapsulate this function as part of the 		`Game` class as well. 
 
-		```
+		```cpp
 		class Game {
 
 		public:
@@ -51,5 +51,37 @@ Object-oriented programming is ideal for game development for three main reasons
 			
 			void play_version2();
 
+		};
+		```
+		Encapsulation also prevents the ripple effect of 		editing code; you can make a change to every instance 		of a variable in one place instead of multiple times if 		it were to be defined repetatively.
+
+	+ Access modifiers - Public, private, or protected. These specify where each item can be accessed throughout the program. This is useful in games where variables are updated under different circumstances. 
+	+ Abstraction - Provides only the necessary information about data and hides background details. It helps make your code clean and concise. 
+	+ Inheritance - Extending existing classes and producing hierarchical relationships between Parent and Child classes.
+		
+		For example, if we want to make multiple games, but 		have them all have properties of the `Game` object. We 		can make our game into its own class called 			`GuessNumber` which would be a child of `Game`. Here is 		what that would look like:
+		
+		```cpp
+		// Parent class
+
+		Class Game {
+		
+		public:
+			
+			Game(){}
+			
+			...
+		};
+		```
+		```cpp
+		// Child class
+		
+		Class GuessNumber : public Game {
+		
+		public:
+			
+			GuessNumner(){}
+			
+			...
 		};
 		```
