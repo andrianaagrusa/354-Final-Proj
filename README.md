@@ -19,4 +19,6 @@ ResearchDoc.md
 README.md
 ```
 
-The ```Tutorial``` folder contains my C++ game as well as the walkthrough. The game is demonstrated at the end of the tutorial.
+The ```Tutorial``` folder contains my C++ game as well as the walkthrough. The game is demonstrated at the end of the tutorial. 
+
+Please finish the tutorial before viewing ```ResearchDoc.md```.
