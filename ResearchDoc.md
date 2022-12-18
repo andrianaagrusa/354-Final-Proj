@@ -115,6 +115,16 @@ C++ has a wide range of libraries that game developers can use to enhance and st
 ## Conclusion
 To conclude, it is evident that C++ gives game developers much potential and room to work creatively because of its functionality and flow. This language is organized and efficient, so writing code is clean, manageable, and structured. I wish to explore this topic further and to implement personal projects with this knowledge in the future.
 
+## Further Reading:
+For further reading on this subject, I recommend the following sources:
++ [Why is C++ The Most Popular Coding Option Among Game Developers?](https://techround.co.uk/tech/c-most-popular-coding-option-game-developers/)
+
++ [A List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs)
+
+... and a guide to how C++ is used in a game engine (Unreal Engine):
+
++ [Programming With C++](https://docs.unrealengine.com/5.0/en-US/programming-with-cplusplus-in-unreal-engine/)
+
 #### Sources:
 > [Why Was C++ Created?](https://www.geeksforgeeks.org/why-was-c-created/)
 

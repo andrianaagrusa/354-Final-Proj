@@ -24,6 +24,8 @@ void Tutorial::instructions() {
     
     //INTRO
 
+    system("color c2");
+
     cout << "Welcome to this C++ tutorial." << endl;
     cout << " " << endl;
     cout << "Press the ENTER key to continue." << endl;
