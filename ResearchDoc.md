@@ -121,7 +121,7 @@ For further reading on this subject, I recommend the following sources:
 
 + [A List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs)
 
-... and a guide to how C++ is used in a game engine (Unreal Engine):
+	... and a guide to how C++ is used in a game engine (Unreal Engine):
 
 + [Programming With C++](https://docs.unrealengine.com/5.0/en-US/programming-with-cplusplus-in-unreal-engine/)
 
